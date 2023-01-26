@@ -1,0 +1,15 @@
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.csproj.AssemblyReference.cache
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfoInputs.cache
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.AssemblyInfo.cs
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/bin/Debug/net7.0/Lab2
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/bin/Debug/net7.0/Lab2.deps.json
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/bin/Debug/net7.0/Lab2.runtimeconfig.json
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/bin/Debug/net7.0/Lab2.dll
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/bin/Debug/net7.0/Lab2.pdb
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.dll
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/refint/Lab2.dll
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.pdb
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/Lab2.genruntimeconfig.cache
+/Users/sravansuresh/Documents/Developer/Web/Level 2/Web Programming/Lab2/Lab2/Lab2/obj/Debug/net7.0/ref/Lab2.dll
